@@ -1,14 +1,14 @@
 # up-kn-2020-group-4
 
-##Google meet:
+## Google meet:
 
 https://meet.google.com/oic-vzzd-chw
 
-##Contacts:
+## Contacts:
 
 https://docs.google.com/spreadsheets/d/1GAdNPNcDT1kAPINrwWrGquZI8LHuN0NNUGfdQopSUok/edit#gid=0
 
-##Discord:
+## Discord:
 
 https://discord.gg/GGrdtsT
 
