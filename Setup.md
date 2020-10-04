@@ -62,3 +62,5 @@ int main() {
 * [Малко команди за cmd](https://www.thomas-krenn.com/en/wiki/Cmd_commands_under_Windows)
 
 * [Bash като алтернатива на powershell във vscode](https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal)
+
+
