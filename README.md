@@ -2,7 +2,8 @@
 
 ## Google meet:
 
-https://meet.google.com/oic-vzzd-chw
+Practicum: https://meet.google.com/oic-vzzd-chw
+Seminar: 
 
 ## Contacts:
 
