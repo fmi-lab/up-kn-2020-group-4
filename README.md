@@ -3,6 +3,7 @@
 ## Google meet:
 
 Practicum: https://meet.google.com/oic-vzzd-chw
+
 Seminar: 
 
 ## Contacts:
