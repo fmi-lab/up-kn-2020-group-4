@@ -4,7 +4,7 @@
 
 Practicum: https://meet.google.com/oic-vzzd-chw
 
-Seminar: 
+Seminar: https://meet.google.com/nev-uxaz-mcn
 
 ## Contacts:
 
