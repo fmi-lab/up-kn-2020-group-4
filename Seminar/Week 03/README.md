@@ -16,16 +16,15 @@
     else
         statement3
 
-    - Nested if statements
+- Nested if statements
 
-    - Using logical operators with if statements
+- Using logical operators with if statements
 
-    - Null statements - statement with no body:
-    ``` if (x == 0);
-            x == 1;
-    ```
+- Null statements - statement with no body:
+` if (x == 0);
+    x == 1;`
 
-    - Operator== vs Operator= inside the conditional
+- Operator== vs Operator= inside the conditional
 
 
 ### Оператор switch
@@ -33,9 +32,11 @@
     swith(x)
     {
     }
-     **x** must be  **char**, **short**, **int**, **long**, **long long**, or **enum**. Floating point variables, strings, and other non-integral types may not be used here.
+     **x** must be  **char**, **short**, **int**, **long**, **long long**, or **enum**. 
+     Floating point variables, strings, and other non-integral types may not be used here.
 
-    - Case labels and the default label:
+- Case labels and the default label:
+`
     switch (c)
     {
         case '0': // if c is 0
@@ -51,9 +52,9 @@
             std::cout << true;
         default:
             std::cout << false;
-    }
+    }`
 
-    - Break statements:
+- Break statements:
 
 ## ЗАДАЧИ
 
