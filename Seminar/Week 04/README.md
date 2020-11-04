@@ -26,7 +26,7 @@
 
 - Bitwise AND (&), Bitwise OR (|) and Bitwise XOR(^):
 
-    | A |B  |A&B |A`|`B | A^B
+    | A |B  |A and B |A or B | A xor B
     |--|--|--| --| --|
     | 0 | 0 | 0 | 0 | 0 |
     | 0 | 1 | 0 | 1 | 1 |
