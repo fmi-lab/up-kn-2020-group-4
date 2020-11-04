@@ -36,9 +36,10 @@
     The & operator can be used to quickly check if a number is odd or even
 
 - Shift Operators
-   ` Right shift (>>) : 0101 << 1 = 1010`  
 
-   ` Left shift (<<) : 1010 >> 1 = 101`
+   ` Right shift (>>) : 1010 >> 1 = 101`  
+
+   ` Left shift (<<) : 0101 << 1 = 1010`
 
    `The left-shift and right-shift operators are equivalent to multiplication and division by 2 respectively.`
 
@@ -79,5 +80,4 @@ Eдно число се нарича перфектно, ако е равно н
     cout << "3) Bitwise XOR\n";
     cout << "4) Left shift\n";
     cout << "5) Right shift\n";
-    cout << "6) Bitwise NOT\n";
 ```
