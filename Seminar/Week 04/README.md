@@ -23,21 +23,15 @@
 
 ### Bitwise operations:
 
-"1) Bitwise AND\n";
-    cout << "2) Bitwise OR\n";
-    cout << "3) Bitwise XOR\n";
-    cout << "4) Left shift\n";
-    cout << "5) Right shift\n";
-    cout << "6) Bitwise NOT\n";
 
 - Bitwise AND (&), Bitwise OR (|) and Bitwise XOR(^):
 
-| A |B  |A&B |A`|`B | A^B
-|--|--|--| --| --|
-| 0 | 0 | 0 | 0 | 0 |
-| 0 | 1 | 0 | 1 | 1 |
-| 1 | 0 | 0 | 1 | 1 |
-| 1 | 1 | 1 | 1 | 0 |
+    | A |B  |A&B |A`|`B | A^B
+    |--|--|--| --| --|
+    | 0 | 0 | 0 | 0 | 0 |
+    | 0 | 1 | 0 | 1 | 1 |
+    | 1 | 0 | 0 | 1 | 1 |
+    | 1 | 1 | 1 | 1 | 0 |
 
     The & operator can be used to quickly check if a number is odd or even
 
