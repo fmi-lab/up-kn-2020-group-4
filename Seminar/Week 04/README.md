@@ -1,0 +1,89 @@
+## While. Do while. Bitwise operations
+
+### While
+    while (expression)
+        statement
+
+- Infinite loops
+
+- Loop variables
+
+- Nested loops
+
+- Break
+
+
+### Do while
+
+    do
+        statement
+    while (condition);
+
+- Еxecutes at least once;
+
+### Bitwise operations:
+
+"1) Bitwise AND\n";
+    cout << "2) Bitwise OR\n";
+    cout << "3) Bitwise XOR\n";
+    cout << "4) Left shift\n";
+    cout << "5) Right shift\n";
+    cout << "6) Bitwise NOT\n";
+
+- Bitwise AND (&), Bitwise OR (|) and Bitwise XOR(^):
+
+| A |B  |A&B |A`|`B | A^B
+|--|--|--| --| --|
+| 0 | 0 | 0 | 0 | 0 |
+| 0 | 1 | 0 | 1 | 1 |
+| 1 | 0 | 0 | 1 | 1 |
+| 1 | 1 | 1 | 1 | 0 |
+
+    The & operator can be used to quickly check if a number is odd or even
+
+- Shift Operators
+   ` Right shift (>>) : 0101 << 1 = 1010`  
+
+   ` Left shift (<<) : 1010 >> 1 = 101`
+
+   `The left-shift and right-shift operators are equivalent to multiplication and division by 2 respectively.`
+
+
+
+## ЗАДАЧИ
+
+### Задача 1:
+Да се въведен число от конзолата и да се определи броят на цифрите му.
+
+### Задача 2:
+Да се напише програма, която въвежда числа докато не се въведе 0 и изчислява прозведението им.
+
+### Задача 3:
+Да се напише програма, която въвежда числа от клавиатурата до въвеждането на 0 и намира средното им аритметично.
+
+### Задача 4:
+Eдно число се нарича перфектно, ако е равно на сумата от всичките си делители. Например 6=1+2+3, 28=1+2+4+7+14. Напишете програма, която въвежда число и проверява дали е перфектно.
+
+### Задача 5:
+Да се напише програма, която преобразува десетично число в двоично.
+
+### Задача 6:
+Да се напише програма, която преобразува двоично число в десетично.
+
+### Задача 7:
+Да се напише програма, която приема от конзолата променливи x и i, да преобразува x в двоично число и да принтира стойността на i-я бит на x.
+
+### Задача 8:
+Да се напише програма, която приема от конзолата число, да го преобразува в двоично и да принтира сумата от цифрите му.
+
+### Задача 9:
+Да се въведат две числа от конзолата. След това да се принтира следното съобщение, докато не се подаде валиден избор (1, 2, 3, 4, 5 или 6) и след това да се извърши следната операция между двете числа:
+```
+    cout <<"Please make a selection: \n";
+    cout << "1) Bitwise AND\n";
+    cout << "2) Bitwise OR\n";
+    cout << "3) Bitwise XOR\n";
+    cout << "4) Left shift\n";
+    cout << "5) Right shift\n";
+    cout << "6) Bitwise NOT\n";
+```
