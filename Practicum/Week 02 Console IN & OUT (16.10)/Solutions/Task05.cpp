@@ -2,7 +2,7 @@
 
 int main() 
 {
-	float length, height, area;
+	int length, height, area;
 
 	std::cout << "Enter length: ";
 	std::cin >> length;
@@ -13,6 +13,7 @@ int main()
 	std::cout << "Enter area: ";
 	std::cin >> area;
 
+	// One approach could be:
 	int number_of_boxes;
 
 	if ((length * height) % area > 0) 
@@ -23,6 +24,9 @@ int main()
 	{
 		number_of_boxes = length * height / area;
 	}
+
+	// Other approach could be usage of ceil() from cmath library :
+	// int number_of_boxes = ceil(length * height / area);
 
 	std::cout << "Number of boxes: " << number_of_boxes;
 
