@@ -6,7 +6,7 @@
 ### The address-of operator (&):
 ```
 	x   // value of variable x
-    &x  // memory address of variable x
+	&x  // memory address of variable x
 ```
 
 ### The indirect operator (\*):
@@ -19,7 +19,7 @@
 
 - **null** value is a special value that means the pointer is not pointing at anything;
 ```
-int* ptr = 0;
+	int* ptr = 0;
 ```
 
 - Initialize your pointers to a null value if you’re not giving them another value!
@@ -71,7 +71,6 @@ int* ptr = 0;
  
 	array[1]   // value of array element 1
 	*(array+1) // value of array pointer + 1 (parenthesis required here)
- 
 ```
 
 ### Dynamic memory allocation with new and delete:
@@ -95,7 +94,6 @@ or
 	size_t length = 5;
 	int *array = new int[length]; // length does not need to be constant!
 	delete[] array; 
-
 ```
 
 - Initializing dynamically allocated arrays:
@@ -123,7 +121,6 @@ or
 ```
 	int value = 5;
 	const int *const ptr = &value;
-
 ```
 
 
@@ -132,19 +129,19 @@ or
 ```
 	int rowCount = 3;
 	int colCount = 3;
-    int **arr = new int*[rowCount];
-    for (int i = 0; i < rowCount; i++) {
-        arr[i] = new int[colCount];
-    }
+	int **arr = new int*[rowCount];
+	for (int i = 0; i < rowCount; i++) {
+		arr[i] = new int[colCount];
+	}
 ```
 
 - Deallocating a dynamically allocated multidimensional arrays:
 ```
 	for(int i = 0; i < rowCount; i++) {
-        delete[] arr[i];
-    }
+		delete[] arr[i];
+	}
 
-    delete[] arr;
+	delete[] arr;
 
 ```
 
