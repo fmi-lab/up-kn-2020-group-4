@@ -56,6 +56,10 @@ int main() {
 	*C:/Users/user1/Documents/testFile.cpp* - абсолютно име на файла, което указва мястото му във файловата система спрямо неиният корен. Няма да се впускам в подробни обяснения за това, но е добре да го имате предвид, когато работите с файлове в конзолата. Като цяло всяко име започващо с / е абсолютно, а ако започва с . или .. то е относително. 
 
 ## Полезни линкове:
+
+* [C++ with VsCode (build/debug)](https://code.visualstudio.com/docs/cpp/config-mingw)
+
+* [C++ debug with VsCode ](https://code.visualstudio.com/docs/cpp/cpp-debug)
 	
 * [Shortcuts за VsCode](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 
