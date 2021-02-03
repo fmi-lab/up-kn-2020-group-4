@@ -53,25 +53,25 @@
 ## Задача 12: 	
 Един низ от букви е анаграма на друг низ, ако е получен от него чрез разместване на някои от буквите. Напишете програма, която проверява дали даден низ от букви е анаграма на друг низ. Въвеждат се **N** с максимална дължина от 100 символа и да се изведат на отделни редове поредните номера на низовете анаграми, ако са повече от 1.	
 	
-Вход:	
-6 	
-abc 	
-bca 	
-xy 	
-yx 	
-sdfsdfds 	
-cba 	
+Вход:  
+6  
+abc  
+bca  
+xy  
+yx  
+sdfsdfds  
+cba  
  	
-Изход: 	
-1 2 6 	
-3 4 	
+Изход:  
+1 2 6  
+3 4  
  	
 ## Задача 13: 	
 Да се състави програма, която прочита две думи и извежда първия низ хоризонтално, а втория вертикално ако имат обща буква. 	
 
-Вход: 	
-klaviatura 	 	
-monitor 	 
+Вход:  
+klaviatura  
+monitor  
 
 Изход: 	
 ```
@@ -87,11 +87,11 @@ klaviatura
 ## Задача 14: 	
 Да се напише програма, която прочита изречение завършващо с точка ('.') и извежда думите от изречението в обратен ред. 	
 
-Вход: 	
-AZ SYM YODA 	
+Вход:  
+AZ SYM YODA  
 
-Изход: 	
-YODA SYM AZ 	
+Изход:  
+YODA SYM AZ  
 
 ## Задача 15:
 Напишете програма, която прочита от стандартния вход символен низ с максимална дължина 2MB. Низът може да е на много редове. Краят ще разпознаете по символа $. След прочитането трябва да: 	
@@ -107,35 +107,36 @@ YODA SYM AZ
 The Queen, Snow White’s stepmother, knew how much this meant to her husband. At the first chance, she went to her magic mirror. “Mirror, mirror, on the wall,” said the Queen. “Who is the fairest of them all?” $
 ```
 
-Изход: 	
-All words – 38 	
-Distinct words – 29 	
-the – 5 	
-mirror – 3 	
-to – 2 	
-queen – 2 	
-her – 2 	
-who – 1 	
-white's – 1 	
-went – 1 	
-wall – 1 	
-them – 1 	
-this – 1 	
-stepmother – 1 	
-snow – 1 	
-she – 1 	
-said – 1 	
-on – 1 	
-of – 1 	
-much – 1 	
-meant – 1 	
-magic – 1 	
-knew – 1 	
-is – 1 	
-husband – 1 	
-how – 1 	
-first – 1 	
-fairest – 1 	
-chance – 1 	
-at – 1 	
-all - 1 	
+Изход:  
+All words – 38  
+Distinct words – 29  
+  
+the – 5  
+mirror – 3  
+to – 2  
+queen – 2  
+her – 2  
+who – 1  
+white's – 1  
+went – 1  
+wall – 1  
+them – 1  
+this – 1  
+stepmother – 1  
+snow – 1  
+she – 1  
+said – 1  
+on – 1  
+of – 1  
+much – 1  
+meant – 1  
+magic – 1  
+knew – 1  
+is – 1  
+husband – 1  
+how – 1  
+first – 1  
+fairest – 1  
+chance – 1  
+at – 1  
+all - 1  
